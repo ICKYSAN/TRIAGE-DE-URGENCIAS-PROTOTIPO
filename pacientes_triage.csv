@@ -1,0 +1,4 @@
+fecha_registro,folio,nombre_paciente,edad,sexo,motivo_consulta,usuario_captura,fecha_hora_ingreso,frecuencia_cardiaca,frecuencia_respiratoria,presion_sistolica,presion_diastolica,temperatura,saturacion_oxigeno,glucosa_capilar,dolor_eva,estado_conciencia,semaforo,accion_sugerida,motivos,alertas
+2026-03-25 02:06:09,P001,JUAN ESTRADA COMANECHI,50,Femenino,DOLOR DE PECHO,VICTORIA SANCHEZ,2026-03-25 02:06,106,20,130,90,37.20000000000001,93,116,4,confuso,AMARILLO,Valoración médica prioritaria,Saturación limítrofe: 93%,
+2026-03-25 02:08:06,P001,JUAN ESTRADA COMANECHI,50,Masculino,DOLOR DE PECHO,VICTORIA SANCHEZ,2026-03-25 02:08,106,20,130,90,37.20000000000001,93,116,4,confuso,AMARILLO,Valoración médica prioritaria,Saturación limítrofe: 93%,
+2026-03-25 02:08:30,P001,JUAN ESTRADA COMANECHI,50,Masculino,DOLOR DE PECHO,VICTORIA SANCHEZ,2026-03-25 02:08,106,20,130,90,37.20000000000001,93,116,4,confuso,AMARILLO,Valoración médica prioritaria,Saturación limítrofe: 93%,
